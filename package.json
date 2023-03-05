@@ -1,0 +1,18 @@
+{
+  "name": "text_nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "canvas": "^2.11.0",
+    "ipfs-http-client": "^60.0.0"
+  }
+}
